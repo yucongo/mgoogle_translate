@@ -26,6 +26,7 @@ mgoogle_translate Example usage:
 This one is based on https://www.v2ex.com/t/353781 which mentions a link https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello in stackoverflow. The stackoverflow link was from here http://stackoverflow.com/questions/8085743/google-translate-vs-translate-api dated Nov 19 '15. Yet the  https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello still works!
 
 googleapis_translate Example usage:
+
     from nose.tools import eq_
     to_translate = 'More than three years ago, I put forward the "one way" initiative. For more than three years, more than 100 countries and international organizations have responded positively, and more than 40 countries and international organizations have signed cooperation agreements with China. The "circle of friends" is expanding.'
     out = googleapis_translate(to_translate, to_lang='zh-CN')
