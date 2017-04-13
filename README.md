@@ -28,6 +28,7 @@ This one is based on https://www.v2ex.com/t/353781 which mentions a link https:/
 googleapis_translate Example usage:
 
     from nose.tools import eq_
+    
     to_translate = 'More than three years ago, I put forward the "one way" initiative. For more than three years, more than 100 countries and international organizations have responded positively, and more than 40 countries and international organizations have signed cooperation agreements with China. The "circle of friends" is expanding.'
     out = googleapis_translate(to_translate, to_lang='zh-CN')
     exp = '三年多前，我提出了“单向”举措。三年来，100多个国家和国际组织积极响应，40多个国家和国际组织与中国签署了合作协议。 “朋友圈”正在扩大。'
