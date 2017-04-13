@@ -2,9 +2,8 @@
 
 ## mgoogle_translate
 
-Machine translation based on translate.google.cn/m? and requests_cache, tested on Python 3.4 and Windows 7.
-
-The key idea from core.py from https://github.com/littlecodersh/translation 
+Machine translation based on translate.google.cn/m? and requests_cache, tested on Python 3.4 and Windows 7 --
+Key idea from core.py from https://github.com/littlecodersh/translation 
 
 mgoogle_translate Example usage:
 
