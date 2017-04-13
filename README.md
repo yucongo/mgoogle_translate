@@ -23,7 +23,7 @@ mgoogle_translate Example usage:
       
 ## googleapis_translate
 
-This one is based on https://www.v2ex.com/t/353781 which mentions a link https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello in stackoverflow. The stackoverflow link was from here http://stackoverflow.com/questions/8085743/google-translate-vs-translate-api dated Nov 19 '15. Yet the  https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello still works!
+This one is based on https://www.v2ex.com/t/353781 which mentions a link https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello in stackoverflow. The stackoverflow link was from here http://stackoverflow.com/questions/8085743/google-translate-vs-translate-api dated Nov 19 '15. Yet that  https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello link still works!
 
 googleapis_translate Example usage:
 
