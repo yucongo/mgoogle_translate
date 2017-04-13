@@ -10,7 +10,7 @@ Example usage:
     out = mgoogle_translate(text, from_lang='auto')
     # '莫斯科，国务卿雷克斯·蒂森和他的外长拉夫罗夫之间。 M·特朗普说，这是“巨大的，如果北约和[美国]可以与俄罗斯同意”，并补充说：“目前，我们不同意俄罗斯在所有”。'
     
-    out = mgoogle_translate(text)
+    out = mgoogle_translate(text, from_lang='fr')
     # same as above
     
     out = mgoogle_translate(text, to_lang='en')
