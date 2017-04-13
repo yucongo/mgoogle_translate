@@ -1,4 +1,4 @@
-# mgoogle_translate/googleapis_translate
+# mgoogle_translate, googleapis_translate
 
 ## mgoogle_translate
 
