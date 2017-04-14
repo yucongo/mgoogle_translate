@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
+https://github.com/mouuff/mtranslate/tree/master/mtranslate
 https://github.com/littlecodersh/translation core.py
 
 Based on http://translate.google.com/m?, use urllib.request
