@@ -22,7 +22,7 @@ mgoogle_translate Example usage:
       
 ## googleapis_translate
 
-This one is based on https://www.v2ex.com/t/353781 which mentions a link https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello in stackoverflow. The stackoverflow link was from here http://stackoverflow.com/questions/8085743/google-translate-vs-translate-api dated Nov 19 '15. Yet that  https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello link still works!
+This one is based on a link mentioned in https://www.v2ex.com/t/353781: ttps://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=Hello. The googleapis link can in fact be traced back to  http://stackoverflow.com/questions/8085743/google-translate-vs-translate-api dated Nov 19 '15. Yet that  googleapis link still works! In the meantime, I found another google translation implementation (https://github.com/sogeuni/gtrans) based on the googleapis link. 
 
 googleapis_translate Example usage:
 
