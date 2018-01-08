@@ -1,4 +1,10 @@
-# mgoogle_translate, googleapis_translate
+# mgoogle_translate, googleapis_translate, bd_fanyi
+
+## bd_fanyi
+
+Free baidu translate, no API key, a bit slow, 1-2 secs/request.
+
+requests and execjs (pip install PyExecJS) required. Also needed is a js environment (nodejs or phantomjs.exe and the like) for execjs to work properly.
 
 ## mgoogle_translate
 
