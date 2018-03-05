@@ -1,6 +1,6 @@
 # mgoogle_translate, googleapis_translate, bd_fanyi
 
-## bd_fanyi
+## bd_fanyi (no longer works as of 2018 03 05)
 
 Free baidu translate, no API key, a bit slow, 1-2 secs/request.
 
