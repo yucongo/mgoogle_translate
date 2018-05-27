@@ -2,7 +2,7 @@
 
 ## bd_fanyi 
 
-Free baidu translate, no API key, updated (signing converted to pythong code, faster, about 500ms/request), no more need for js environ.
+Free baidu translate, no API key required, updated (2018 05 27，js signing converted to pythong code, faster, about 500ms/request), no more need for js environ.
 
 ## mgoogle_translate
 
